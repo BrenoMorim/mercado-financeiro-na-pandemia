@@ -1,8 +1,15 @@
-# Mostra Cultural
+# Analisando o mercado fincanceiro durante a pandemia
 
 > Status: Concluído
 
-## Análises do mercado financeiro:
+## Objetivo do projeto:
 
-Projeto usado em uma apresentação da mostra cultural da escola onde estudo, abordando o tema ciência de dados, analisando ações, bitcoin e inflação com python.
-Utilizei o que aprendi na Alura para explicar sobre data science em uma apresentação escolar, usando exemplos mais reais envolvendo o mercado financeiro.
+O projeto foi feito inteiramente em python com o objetivo de analisar o impacto da pandemia no mercado financeiro do Brasil, assim como as causas por trás das altas e quedas nas métricas estudadas.
+
+## Questões analisadas:
+
+A primeira métrica analisada foi a inflação e seu comportamento durante a pandemia. Em seguida foi feita a análise das ações de duas empresas: Magalu e Petrobrás. Com a finalidade de construir um modelo de regressão para tentar prever o comportamento das ações da Petrobrás, coletei dados sobre a cotação de um barril de petróleo, a cotação do dólar e até mesmo a pontuação da IBOVESPA (bolsa de valores brasileira).
+
+### [Fonte dos dados usados no projeto](http://www.infomoney.com.br)
+
+---
