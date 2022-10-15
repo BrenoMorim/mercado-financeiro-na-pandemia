@@ -9,7 +9,7 @@ O projeto foi feito inteiramente em python com o objetivo de analisar o impacto 
 | :sparkles: Nome        | **Mercado financeiro na pandemia**
 | :label: Tecnologias | Python, Jupyter Notebook
 
-![](https://github.com/BrenoMorim/mercado-financeiro-na-pandemia/blob/main/imagem-do-projeto.png#vitrinedev)
+![](https://github.com/BrenoMorim/mercado-financeiro-na-pandemia/blob/main/imagem-do-projeto.png?raw=true#vitrinedev)
 
 ## Questões analisadas:
 
