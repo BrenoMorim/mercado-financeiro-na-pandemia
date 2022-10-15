@@ -2,9 +2,14 @@
 
 > Status: Concluído
 
-## Objetivo do projeto:
-
 O projeto foi feito inteiramente em python com o objetivo de analisar o impacto da pandemia no mercado financeiro do Brasil, assim como as causas por trás das altas e quedas nas métricas estudadas.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Mercado financeiro na pandemia**
+| :label: Tecnologias | Python, Jupyter Notebook
+
+![](https://github.com/BrenoMorim/mercado-financeiro-na-pandemia/blob/main/imagem-do-projeto.png#vitrinedev)
 
 ## Questões analisadas:
 
