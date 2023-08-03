@@ -2,14 +2,22 @@
 
 > Status: Concluído
 
-O projeto foi feito inteiramente em python com o objetivo de analisar o impacto da pandemia no mercado financeiro do Brasil, assim como as causas por trás das altas e quedas nas métricas estudadas.
+O projeto foi feito inteiramente em python com o objetivo de analisar o impacto da pandemia no mercado financeiro do Brasil, assim como as causas por trás das altas e quedas nas métricas estudadas. Contém dados de 2019 até 2021 apenas.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Mercado financeiro na pandemia**
-| :label: Tecnologias | Python, Jupyter Notebook
+| :placard: Vitrine.Dev |                                     |
+| --------------------  | ----------------------------------- |
+| :sparkles: Nome       | **Mercado financeiro na pandemia**  |
+| :label: Tecnologias   | Python, Jupyter Notebook, Power BI  |
 
-![Análise sobre a inflação](https://github.com/BrenoMorim/mercado-financeiro-na-pandemia/blob/main/imagem-do-projeto.png?raw=true#vitrinedev)
+![Análise sobre o dólar e o petróleo](https://github.com/BrenoMorim/mercado-financeiro-na-pandemia/blob/main/imagem-do-projeto.png?raw=true#vitrinedev)
+
+## Páginas do Dashboard
+
+![Página sobre a bolsa de valores e ações da Magalu e Petrobras](./paginas-dashboard/Bolsa.png)
+
+![Página sobre a inflação entre 1994 e 2021](./paginas-dashboard/IPCA.png)
+
+![Página sobre a variação da cotação do dólar e do petróleo](./paginas-dashboard/Dolar_Petroleo.png)
 
 ## Questões analisadas
 
